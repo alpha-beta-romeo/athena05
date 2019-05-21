@@ -12,7 +12,6 @@ collections:
     label: "Posts"
     folder: "content"
     create: true
-    format: toml-frontmatter
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
