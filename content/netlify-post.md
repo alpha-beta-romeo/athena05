@@ -1,6 +1,7 @@
 ---
 title: "Netlify Post"
 type: "post"
+draft: false
 ---
 <div class="content">
     <h3>Is Fresh Onions online on the darknet?<span>Return to <a href="/">dark.fail</a></span></h3>
