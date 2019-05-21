@@ -1,6 +1,6 @@
 ---
 title: "Netlify Post"
-type: "post"
+type: "blog"
 draft: false
 ---
 <div class="content">
@@ -8,7 +8,6 @@ draft: false
 
 <div class="site_online">
     No.
-
 </div>
 
 <h5>Fresh Onions's Onion Links</h5>
