@@ -1,8 +1,9 @@
 ---
 title: Our Coffee
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
 ---
+<div class="content">
+    <h3>This is new coffee</span></h3>
+
+<div class="site_online">
+    No.
+</div>
