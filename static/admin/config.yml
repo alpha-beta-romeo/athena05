@@ -17,3 +17,15 @@ collections:
       - {label: "Title", name: "title", widget: "string", required: true}
       - {label: "type", name: "type", widget: "hidden", required: true, default: "blog"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Home Page"
+        name: "index"
+        file: "site/data/index.yml"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
+          
+      
