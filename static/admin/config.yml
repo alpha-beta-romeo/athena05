@@ -15,7 +15,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string", required: true}
-      - {label: "Published Date", name: "publised", widget: "datetime", default: "", format: "LLL"}
+      - {label: "Published Date", name: "date", widget: "datetime", required: false}
       - {label: "type", name: "type", widget: "hidden", required: true, default: "blog"}
       - {label: "Body", name: "body", widget: "markdown"}
 
